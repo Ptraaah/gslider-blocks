@@ -25,7 +25,7 @@
     },
     {
       "login": "devmuhib009",
-      "name": "devmuhib009",
+      "name": "Muhibul Haque",
       "avatar_url": "https://avatars.githubusercontent.com/u/142894870?v=4",
       "profile": "https://github.com/devmuhib009",
       "contributions": [
@@ -173,6 +173,15 @@
       "name": "Rejaul Alom Khan",
       "avatar_url": "https://avatars.githubusercontent.com/u/123895004?v=4",
       "profile": "https://github.com/rejaulalomkhan",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "dependabot[bot]",
+      "name": "dependabot[bot]",
+      "avatar_url": "https://avatars.githubusercontent.com/in/29110?v=4",
+      "profile": "https://github.com/apps/dependabot",
       "contributions": [
         "code"
       ]
